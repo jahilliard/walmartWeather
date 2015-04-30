@@ -1,12 +1,12 @@
 # Big Data and Analytics
 ___
 
-Please see walmartFinal.v3.ipynb.  It is a v4 ipython notebotebook.
+Please see walmartFinal.ipynb.  It is a v4 ipython notebotebook.
 
 In terminal
 
 ```sh
-$ ipython notebook walmartFinal.v3.ipynb
+$ ipython notebook walmartFinal.ipynb
 ```
 
 Define the Functions and then run the simulation.
